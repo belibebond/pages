@@ -10,3 +10,6 @@ JUst like that it started working!
 - Silver
 
 ![Cute Puppy](pompuppy.jpg)
+
+
+Sweet!
