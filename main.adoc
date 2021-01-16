@@ -1,0 +1,8 @@
+= Linux World
+beli
+v0.0.1, August 28, 2020
+:toc: left
+
+Moving from markdown to asciidoctor will be challenge, but well worth it.
+
+include::data.adoc[]
